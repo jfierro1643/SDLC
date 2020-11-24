@@ -1,1 +1,17 @@
+Definition of SDLC
 
+Purpose
+
+stages
+Planning
+analysis
+design
+development
+testing
+implementation
+maintenance
+
+Methodologies
+Lean
+Waterfall
+Spiral
